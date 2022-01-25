@@ -19,4 +19,4 @@ Open Source Code
 - Please add a code comment linking back to this repository when you use this code.
 
 ## Contact
-- Ethan Hardcastle meisterbloo@gmail.com
+- [Ethan Hardcastle](meisterbloo@gmail.com)
